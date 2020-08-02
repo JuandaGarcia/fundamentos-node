@@ -9,3 +9,4 @@ console.log(__filename)
 global.miVariable = 'El valor'
 
 console.log(global.miVariable)
+console.log(miVariable)
